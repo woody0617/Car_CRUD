@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8D8C8D0A-BFE9-4C0E-B3C0-7DD35E3D7A05}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Car.cs">
+    <Files>
+      <File FileName="Models/Car.cs" Line="21" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Car_CRUD" expanded="True">
+            <Node name="Car_CRUD" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Car.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Cars" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Car__CRUD PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
